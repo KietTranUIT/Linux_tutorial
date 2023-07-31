@@ -2,4 +2,4 @@
 
 <span style="color: #F07167"> <strong>Basic command syntax </strong> </span>
 <p>Most commands follow a simple pattern of syntax:</p>
-<span style="text-align:center;display:block;color:#84E6F8">command [options…] [arguments…]</span>
+<span> Syntax: <br> <code> command [options…] [arguments…] </code></span>
